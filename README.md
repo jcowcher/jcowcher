@@ -1,4 +1,4 @@
-I’m learning to code in Python through a number of publicly available sources, including DeepLearning.AI. 
+I’m learning to code in Python through a number of publicly available sources, including DeepLearning.AI and CS50 courses. 
 
 My focus is on learning to think step by step like an engineer so I can leverage the amazing advances in AI coding solutions to build code. 
 
