@@ -1,7 +1,9 @@
 Value creation & transformation (ex-McKinsey RTS) building AI products.
 
 •	10+ years leading diligence + performance improvement across tech/media/FS.
+
 •	Building MVPs: Elementary Timer, Idea Kache.
+
 •	Python + applied LLM tooling (RAG/extraction) + financial modeling.
 
 <!--
