@@ -1,4 +1,4 @@
-•	Value creation & transformation (ex-McKinsey RTS) building products with AI.
+•	Value creation & transformation (ex-McKinsey) building products with AI.
 
 •	10+ years leading diligence and performance improvement across technology, media, financial services, retail and industrials companies.
 
