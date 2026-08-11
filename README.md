@@ -1,4 +1,6 @@
-•	Value creation & transformation (ex-McKinsey) building products with AI tools.
+Jeremy Cowcher — building products with AI tools
+
+•	Value creation & transformation (ex-McKinsey).
 
 •	10+ years leading diligence efforts and performance improvement programs across technology, media, financial services, retail, mining and industrials companies.
 
